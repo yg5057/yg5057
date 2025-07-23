@@ -4,13 +4,15 @@
 
   ### 🐹 yg's GITHUB 🐹
 
- <a href="https://github.com/yg5057"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%yg5057&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
-
+ [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fyg5057.vercel.app?color=gray&label=hits&size=small)](https://myhits.vercel.app)
+ <a href="https://velog.io/@yg5057/posts/"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a><br>
 
 
 <div align="left">
   
 <sub>**☁️ goorm Deep Dive Frontend Developer 3rd ☁️**</sub> <sub><sub>(2025.02.25 ~ 2024.02.25)</sub></sub> <br />
+<br />
+<br />
 
 <br />
 </div>
