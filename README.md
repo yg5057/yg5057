@@ -2,7 +2,7 @@
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yg5057&show_icons=true&theme=transparent&hide="/>
 
-  ### 🐹 yg's GITHUB 🐹
+  ### 🍥 yg's GITHUB 🍥
 
  [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fyg5057.vercel.app?color=gray&label=hits&size=small)](https://myhits.vercel.app)
  <a href="https://velog.io/@yg5057/posts/"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a><br>
