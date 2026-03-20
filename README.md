@@ -5,6 +5,15 @@
   ### 🍥 yg's GITHUB 🍥
 
  [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fyg5057.vercel.app?color=gray&label=hits&size=small)](https://myhits.vercel.app)
+ 
+ <div align="left">
+
+<!-- <sub>**☁️ goorm Deep Dive Frontend Developer 3rd ☁️**</sub> <sub><sub>(2025.02.25 ~ 2025.09.15)</sub></sub> <br /> -->
+<br />
+<br />
+
+<br />
+</div>
 
 </div>
 
